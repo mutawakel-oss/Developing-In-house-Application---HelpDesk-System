@@ -8,13 +8,12 @@ In this project I worked as a Software Engineer to develop a Help Desk system ai
 
 # Following are a sample screenshot of the developed system:
 * Login Page:
-* 
-![Sample Graph]([https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/1.png](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/4.jpg))
+
+![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/4.jpg)
 * Report Samples:
-* 
-![Sample Graph]([https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/1.png](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/5.jpg))
 
-![Sample Graph]([https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/1.png](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/6.jpg))
+![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/5.png)
 
-![Sample Graph]([https://github.com/mutawakel-oss/Implementation-of-ERP---Oracle-PeopleSoft-Campus-Solution/blob/main/1.png](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/7.jpg))
+![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/6.png)
 
+![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/7.png)
