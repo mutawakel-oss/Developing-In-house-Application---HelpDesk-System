@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.AdsDB" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Ads.cs</FileName>
+      <HashCode>GAAAALAAIMIBAAhAAEQABCECABAABQKIAUDYAAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.CategoriesDB" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Categories.cs</FileName>
+      <HashCode>AAAAAAACACAIQAAAAAAAIgAAAAAAABAAAACACgAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.DefaultValues" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\DefaultValues.cs</FileName>
+      <HashCode>CAAAAAAgAAAAAAAAAAAAACAAAAAAAAAAgACEAIAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.LocationsDB" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Locations.cs</FileName>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.Maintenance" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Maintenance.cs</FileName>
+      <HashCode>AAAQAAAAAAAIAgAAAAAAAAAIAAAAAAAAAIAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.MembersDB" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Members.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.PhotosDB" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Photos.cs</FileName>
+      <HashCode>AAAAAAACgIAABAAgAAAEAACAAAAAAAAEAAEACAAADCA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.SiteSettings" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\SiteSettings.cs</FileName>
+      <HashCode>iEAACiAAQAABAEAABBIAAIAQBDARAAAaggJAAAAAAWA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.Stats" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Stats.cs</FileName>
+      <HashCode>IAAIEKAAAAQAwAECCAIAAEIQAgAgEBAKAAARABAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdsDataComponent" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\ads.xsd.f5e36021.cs</FileName>
+      <HashCode>AAIIAAAAAwAAACJABAAQQAAIAAkCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CategoriesDataComponent" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\categories.xsd.f5e36021.cs</FileName>
+      <HashCode>AAAAAAAAAwAAAAJCBAAAQAAAAAgCUBgAAAAIAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocationsDataComponent" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\locations.xsd.f5e36021.cs</FileName>
+      <HashCode>AAAAAAAAAwARAAJABAIAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MembersDataComponent" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\members.xsd.f5e36021.cs</FileName>
+      <HashCode>AAAAAAAgAwIAAAJABAAAQAAAAAgCQBgAAAAEAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProfileCommon" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\profile.cdcab7d2.cs</FileName>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsDataComponent" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\stats.xsd.f5e36021.cs</FileName>
+      <HashCode>ABAAAAAAAwAAAAJABAAAQAAAAAgCQBgEAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programs1" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Programs1.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\task.cs</FileName>
+      <HashCode>AAAAAACAAAAAAAAABAAAAAAAQAAAAAAAAAAACACQAGA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="technician">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\technician.cs</FileName>
+      <HashCode>AAAAAUAAAAQAIAAAAAAAAAAgwEAAAAAAAAAAAgAQAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdsDataComponentTableAdapters.AdsDataAdapter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\ads.xsd.f5e36021.cs</FileName>
+      <HashCode>EAQAAOAAIAIAAANAIAAAACAKATEICQCIAECCAAAgpBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdsDataComponentTableAdapters.PhotosDataAdapter" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\ads.xsd.f5e36021.cs</FileName>
+      <HashCode>EAACAGAAgAAAAAMAIAAAAACAACAICAAAAAAIAAAADDA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CategoriesDataComponentTableAdapters.CategoriesDataAdapter" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\categories.xsd.f5e36021.cs</FileName>
+      <HashCode>EAQAAGACAAAIAAMAIAAAIgAAACEICBAAAACACAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocationsDataComponentTableAdapters.LocationsDataAdapter" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\locations.xsd.f5e36021.cs</FileName>
+      <HashCode>EAQAAGAAAEAAAAMAIAAAAAACACEICAAAgAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MembersDataComponentTableAdapters.MembersDataAdapter" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\members.xsd.f5e36021.cs</FileName>
+      <HashCode>EAAAAGABACAAAAMAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsDataComponentTableAdapters.StatsDataAdapter" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\hlpdeskarabic_online\22b16941\cbbae9a6\Sources_App_Code\stats.xsd.f5e36021.cs</FileName>
+      <HashCode>EAAEBGEBAQAAAAMCIABAgAAABCAICAAAAAAAQAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneralClass.Program" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Program.cs</FileName>
+      <HashCode>EwNAgIEAQEACKYQAABSAIAgCIEAkCQAoAQYBHBEBAjA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.CachedCategory" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\CategoryCache.cs</FileName>
+      <HashCode>AAACIEAABAAAAACAAgBAAQQAAACAAIAAAAAAAASAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.CategoryCache" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\CategoryCache.cs</FileName>
+      <HashCode>ACAAAAAmAAgAAABAAAACACAAAAAAAAAAAACIAAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.CategorySelectionChangedEventArgs" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\CategoryControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.ClassifiedsHttpApplication" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\ClassifiedsHttpApplication.cs</FileName>
+      <HashCode>AAABAAAAABAAAKAQgAAAAAAAAARAAkAIgAAAAAIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.CachedFeaturedAd" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\FeatureCache.cs</FileName>
+      <HashCode>AAAIACAAAIABAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.FeaturedAdCache" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\FeatureCache.cs</FileName>
+      <HashCode>EAAAIAAAAAAAAEBAAAAAAAAAAAAAAgAAAARAAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.CachedLocation" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\LocationCache.cs</FileName>
+      <HashCode>AAACIAAAAAAAAAAAAABAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.LocationCache" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\LocationCache.cs</FileName>
+      <HashCode>ACAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAQAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.OutputFormatting" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\OutputFormatting.cs</FileName>
+      <HashCode>AAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.StatsCache" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\StatsCache.cs</FileName>
+      <HashCode>AAAAAAAAAAQAAAAAAIAQAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AspNet.StarterKits.Classifieds.Web.Util" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\Util.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.AdType" Collapsed="true">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Ads.cs</FileName>
+      <HashCode>AAAAAAABAAAAABAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.AdLevel" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Ads.cs</FileName>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.AdStatus" Collapsed="true">
+    <Position X="4" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Ads.cs</FileName>
+      <HashCode>AAAACAADAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.AdminNotificationSetting" Collapsed="true">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Maintenance.cs</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAYAAAAAAAAAAAAAAAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AspNet.StarterKits.Classifieds.BusinessLogicLayer.PhotoSize" Collapsed="true">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\BLL\Photos.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAgAAAAEEAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="AspNet.StarterKits.Classifieds.Web.CategorySelectionChangedEventHandler" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Web\CategoryControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Delegate>
+</ClassDiagram>

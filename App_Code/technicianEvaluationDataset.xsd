@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="technicianEvaluationDataset" targetNamespace="http://tempuri.org/technicianEvaluationDataset.xsd" xmlns:mstns="http://tempuri.org/technicianEvaluationDataset.xsd" xmlns="http://tempuri.org/technicianEvaluationDataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="technicianEvaluationDataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="technicianEvaluationDataset" msprop:Generator_DataSetName="technicianEvaluationDataset">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblTechEvaluation" msprop:Generator_UserTableName="tblTechEvaluation" msprop:Generator_RowDeletedName="tblTechEvaluationRowDeleted" msprop:Generator_RowChangedName="tblTechEvaluationRowChanged" msprop:Generator_RowClassName="tblTechEvaluationRow" msprop:Generator_RowChangingName="tblTechEvaluationRowChanging" msprop:Generator_RowEvArgName="tblTechEvaluationRowChangeEvent" msprop:Generator_RowEvHandlerName="tblTechEvaluationRowChangeEventHandler" msprop:Generator_TableClassName="tblTechEvaluationDataTable" msprop:Generator_TableVarName="tabletblTechEvaluation" msprop:Generator_RowDeletingName="tblTechEvaluationRowDeleting" msprop:Generator_TablePropName="tblTechEvaluation">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tech_name" msprop:Generator_UserColumnName="tech_name" msprop:Generator_ColumnPropNameInRow="tech_name" msprop:Generator_ColumnVarNameInTable="columntech_name" msprop:Generator_ColumnPropNameInTable="tech_nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="creteria" msprop:Generator_UserColumnName="creteria" msprop:Generator_ColumnPropNameInRow="creteria" msprop:Generator_ColumnVarNameInTable="columncreteria" msprop:Generator_ColumnPropNameInTable="creteriaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="tasks_no" msprop:Generator_UserColumnName="tasks_no" msprop:Generator_ColumnPropNameInRow="tasks_no" msprop:Generator_ColumnVarNameInTable="columntasks_no" msprop:Generator_ColumnPropNameInTable="tasks_noColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="average_rating" msprop:Generator_UserColumnName="average_rating" msprop:Generator_ColumnPropNameInRow="average_rating" msprop:Generator_ColumnVarNameInTable="columnaverage_rating" msprop:Generator_ColumnPropNameInTable="average_ratingColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="average_duration" msprop:Generator_UserColumnName="average_duration" msprop:Generator_ColumnVarNameInTable="columnaverage_duration" msprop:Generator_ColumnPropNameInRow="average_duration" msprop:Generator_ColumnPropNameInTable="average_durationColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
