@@ -10,6 +10,20 @@ In this project I worked as a Software Engineer to develop a Help Desk system ai
 * Login Page:
 
 ![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/4.jpg)
+
+* Helpdesk Requests Page:
+
+![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/helpdesk%20-%20report.jpg)
+
+![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/helpdesk%20-%20requests%20report.jpg)
+
+* PC Tech Management Pages:
+![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/helpdesk%20-%20pc%20tech.jpg)
+
+![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/helpdesk%20-%20pc%20tech%20diagram.jpg)
+
+![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/helpdesk%20-%20all%20pc%20techs.jpg)
+
 * Report Samples:
 
 ![Sample Graph](https://github.com/mutawakel-oss/Developing-In-house-Application---HelpDesk-System/blob/main/Screenshots/5.png)
